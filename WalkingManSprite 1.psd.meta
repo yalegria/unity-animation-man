@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f5f21af1d155c74488523e78ae931c38
+guid: e43cd037ca4ee5944b635b01cfda8442
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -103,21 +103,109 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WalkingManSprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 89
+        width: 254
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf04974856b9f4480f986c2efff287
+      internalID: 133099387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingManSprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 97
+        width: 184
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab4fdc3f1a8b840a4d21dd5b342087
+      internalID: -215259069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingManSprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 84
+        width: 231
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866ce865bd872b45a44c14e49ec296b
+      internalID: 444434815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkingManSprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 84
+        width: 197
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f4b493752ded43abc49f686d43afb
+      internalID: 1969339829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1b7e0d0e56495824da8f7bdb02430462
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WalkingManSprite 1_0: 133099387
+      WalkingManSprite 1_3: 1969339829
+      WalkingManSprite 1_1: -215259069
+      WalkingManSprite 1_2: 444434815
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
+  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
